@@ -13,6 +13,6 @@ If we make YouTube videos of ourselves making these 3 minute speeches, they woul
 "Friends, Romans, countrymen, lend me your ears," is perhaps the most widely translated and heard English language sentence in history. So we shall borrow this great line from perhaps the most beloved writer in English for the name of our project.
 
 
-Lesson 1 from MI4
+## Lesson 1 from MI4
 
 Brexit has resulted in tremendous economic losses to the United Kingdom as well as the European Union. However, the majority of British people simply do not care. Again, they voted for the Tories in the latest election. Why are the British people overlooking economic gains? What do they want?
