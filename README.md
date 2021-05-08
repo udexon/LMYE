@@ -10,6 +10,8 @@ If we make YouTube videos of ourselves making these 3 minute speeches, they woul
 
 3) One Text Multiple Languages: Multiple collaborators may help to translate one interesting speech into multiple languages, aiding language learners in various languages. This effectively helps all collaborators to gain viewership through synergy.
 
+4) After learning to read and listen to the short videos, learners are encourage to practise speaking, as well as answer simple questions based on the short stories. This has been a proven effective method of exercise employed in school curriculum worldwide.
+
 "Friends, Romans, countrymen, lend me your ears," is perhaps the most widely translated and heard English language sentence in history. So we shall borrow this great line from perhaps the most beloved writer in English for the name of our project.
 
 
