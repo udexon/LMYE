@@ -1,7 +1,8 @@
 ## Lend Me Your Ears: the Most Effective Way of Learning a Foreign Language in the TikTok Era
 
 Lend Me Your Ears (LMYE) is essentially our good old "comprehension"
-exercise questions in language subjects,
+exercise questions in language subjects
+(short story, questions, answers),
 rejuvenated as a social media package.
 
 Social media have trained almost all of us to be veterans in 3 minute speeches, without knowing it. 1 minute is just long enough for 2 sentences, if spoken slowly. 6 sentences would be an average comment that we are used to writing almost everyday.
